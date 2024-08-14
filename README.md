@@ -1,5 +1,5 @@
-###Task HotelReservationSystem###
-Hotel Reservation System
+### Task HotelReservationSystem ###
+### Hotel Reservation System ###
 This Java-based console application simulates a simple Hotel Reservation System. It allows users to view available rooms, make reservations, and check their booking details.
 
 Features
